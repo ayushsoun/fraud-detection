@@ -1,6 +1,5 @@
 # Fraud Detection
 
-This project is based on ML and AI where linear regression is being used to train the data and predict the frauds.
-
+This is an ML & AI-based classification project that can be used to read the dataset, do the analysis and prediction of fraudulent cases and train itself using Linear Regression.
 for the same dataset used here 
 VISIT:-https://drive.google.com/open?id=1rNf64APCa0loCwV6Trm2V7O4ZdK3o9uH
